@@ -1,0 +1,4 @@
+I have used ImageMagick to see differences between pngs. 
+
+~/Downloads/nxdfSBGhvzn $ compare first.png second.png -compose src diff.png
+
